@@ -3,7 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=radical&mode=weekly" />
-<img width=45% align="center" style="margin-top:50px" src="https://github-readme-stats.vercel.app/api?username=THURRnado&theme=radical"/>
+<img width=44% align="center" style="margin-top:50px" src="https://github-readme-stats.vercel.app/api?username=THURRnado&theme=radical"/>
  </div>
  
 ## My Skills
