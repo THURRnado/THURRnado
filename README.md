@@ -1,5 +1,5 @@
 
-<p align="center"><strong>Olá! Meu nome é Arthur Vieira, sou um estudante do curso de Ciência da Computaçao na UFPB. Estou sempre em busca de aprender coisas novas e expandir meu conhecimento!</strong></p>&nbsp;
+## Olá, sou o Arthur Vieira
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=radical&mode=weekly" />
