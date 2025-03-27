@@ -3,7 +3,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 100px;">
     <a href="https://git.io/streak-stats">
-        <img style="max-width: 55%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=dark" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=radical" alt="GitHub Streak" /></a>
     </a>
     <img style="max-width: 44%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=THURRnado&theme=radical" alt="GitHub Stats"/>
 </div>
