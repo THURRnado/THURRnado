@@ -1,10 +1,11 @@
 
 ## Olá! Eu sou o Arthur Vieira
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=radical&mode=weekly" />
-<img width=44% align="center" style="margin-top:50px" src="https://github-readme-stats.vercel.app/api?username=THURRnado&theme=radical"/>
- </div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 100px;">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=radical&mode=weekly" />
+    <img width="44%" src="https://github-readme-stats.vercel.app/api?username=THURRnado&theme=radical"/>
+</div>
+
  
 ## My Skills
 
