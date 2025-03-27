@@ -2,10 +2,11 @@
 ## Olá! Eu sou o Arthur Vieira
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 100px;">
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=radical&mode=weekly" />
-    <img width="44%" src="https://github-readme-stats.vercel.app/api?username=THURRnado&theme=radical"/>
+    <a href="https://git.io/streak-stats">
+        <img style="max-width: 55%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=THURRnado&theme=dark" alt="GitHub Streak" />
+    </a>
+    <img style="max-width: 44%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=THURRnado&theme=radical" alt="GitHub Stats"/>
 </div>
-
  
 ## My Skills
 
@@ -23,11 +24,11 @@
 
 ## Contacts:
 
-<div> 
-<a href="https://instagram.com/arthurviep?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<div>
+<a href="https://instagram.com/arthurviep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "arthurvieira.trabalho@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthur-vieira-8191b6216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/arthur-vieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
